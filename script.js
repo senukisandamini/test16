@@ -24,18 +24,18 @@ var models = [
         url: 'asset.gltf',
         scale: '0.5 0.5 0.5',
         info: 'Halloween',
-        rotation: '0 360 0',
+        rotation: '0 180 0',
     },
     {
         url: 'asset1.gltf',
         scale: '0.2 0.2 0.2',
-        rotation: '0 360 0',
+        rotation: '0 180 0',
         info: 'Wolf',
     },
     {
         url: 'asset.gltf',
         scale: '0.08 0.08 0.08',
-        rotation: '0 360 0',
+        rotation: '0 180 0',
         info: 'Halloween',
     },
 ];
